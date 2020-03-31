@@ -1,5 +1,5 @@
 angular.module('myangularJSApp',[
-    'viewSample',
+    'login',
     'core',
     'ngRoute'
 ])

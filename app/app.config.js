@@ -5,7 +5,8 @@ angular.
             //add routes 
             $routeProvider.
             when('/', {
-                template : '<view-sample></view-sample>'
-            })
+                template : '<login></login>'
+            }).
+            otherwise('/login');
 
         }])
