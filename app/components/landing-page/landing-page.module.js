@@ -1,4 +1,0 @@
-angular.
-module('landingPage',[
-    'ngRoute',
-])
