@@ -1,6 +1,6 @@
 'use strict'
 
-angular.module('viewSample',[
+angular.module('landingPage',[
     'ngRoute',
 ]);
 

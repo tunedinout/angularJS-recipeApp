@@ -4,9 +4,11 @@ angular.
         function ($routeProvider) {
             //add routes 
             $routeProvider.
-            when('/', {
-                template : '<login></login>'
-            }).
-            otherwise('/login');
+                when('/login', {
+                    template: '<login></login>'
+                }).
+                when('/', {
+                    template: '<landing-page></landing-page>'
+                });
 
         }])
