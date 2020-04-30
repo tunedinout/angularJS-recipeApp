@@ -9,7 +9,7 @@
     "angular-resource": "^1.7.9",
     "angular-route": "1.7.x",
     "bootstrap": "3.4.x",
-    "jquery": "3.4.x",
+    "jquery": "3.5.x",
     "requirejs": "^2.3.6"
   },
   "devDependencies": {
